@@ -9,7 +9,7 @@ body {
 
 #showcase {
     position: relative;
-    background: url('images/main.jpeg') no-repeat bottom center/cover;
+    background: url('images/main.jpg') no-repeat bottom center/cover;
     min-height: 48rem;
 }
 
